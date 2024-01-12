@@ -1,0 +1,8 @@
+@inproceedings{REPO079,
+    author = "Han, Dongqi and Wang, Zhiliang and Chen, Wenqi and Zhong, Ying and Wang, Su and Zhang, Han and Yang, Jiahai and Shi, Xingang and Yin, Xia",
+    booktitle = "Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security",
+    numpages = "21",
+    pages = "3197¨C3217",
+    title = "{DeepAID: Interpreting and Improving Deep Learning-Based Anomaly Detection in Security Applications}",
+    year = "2021"
+}
